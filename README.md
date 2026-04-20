@@ -145,7 +145,7 @@ The backend is **FastAPI** + **Groq** (`llama-3.3-70b-versatile`) with a dual-la
 │  ┌────────────────────────────────────────────────────────────────┐  │
 │  │                   Analysis Pipeline (sequential)               │  │
 │  │                                                                │  │
-│  │   PARSE  ──►  EXTRACT  ──►  SCAN  ──►  REASON  ──►  REPORT    │  │
+│  │   PARSE  ──►  EXTRACT  ──►  SCAN  ──►  REASON  ──►  REPORT     │  │
 │  │   (PDF /     (clauses +    (18 regex   (Groq JSON   (LRU cache │  │
 │  │    DOCX /    sections +     rules +     executive    + /latest │  │
 │  │    TXT)      offsets)       missing)    brief)       + /reports│  │
