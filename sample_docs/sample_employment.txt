@@ -1,0 +1,27 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement is entered into between TechCorp Inc. ("Company") and the Employee.
+
+1. COMPENSATION
+Employee shall receive a salary of $80,000 per year, payable net 90 days after each month end, subject to Company approval.
+
+2. INTELLECTUAL PROPERTY
+All work product, inventions, and intellectual property created by Employee, whether during or outside working hours, shall be the sole property of the Company. Employee hereby assigns all rights to Company.
+
+3. TERMINATION
+Company may terminate this agreement at any time, at will, without notice or cause. Employee must provide 90 days written notice to terminate.
+
+4. NON-COMPETE
+Employee agrees not to compete with Company in any similar business worldwide for a period of 3 years following termination.
+
+5. INDEMNIFICATION
+Employee agrees to indemnify and hold harmless Company from any and all claims, damages, and expenses without limitation.
+
+6. AMENDMENTS
+Company reserves the right to amend the terms of this agreement at any time at its sole discretion without notice to Employee.
+
+7. ARBITRATION
+All disputes arising from this agreement shall be resolved exclusively through binding arbitration. Employee waives all rights to jury trial or court proceedings.
+
+8. GOVERNING LAW
+This agreement shall be governed by the laws of Delaware, USA.

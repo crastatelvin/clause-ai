@@ -1,0 +1,21 @@
+NON-DISCLOSURE AGREEMENT
+
+Between WidgetCorp ("Disclosing Party") and Recipient.
+
+1. CONFIDENTIAL INFORMATION
+Confidential Information includes any and all information disclosed by Disclosing Party including business plans, financials, technical data, customer lists, and any other information marked confidential.
+
+2. OBLIGATIONS
+Recipient shall hold all Confidential Information in strict confidence for a period of 5 years and shall not disclose to any third party.
+
+3. PERMITTED DISCLOSURES
+Disclosing Party may share Recipient's confidential information with any of its affiliates, subsidiaries, investors, or advisors without prior notice to Recipient.
+
+4. RETURN OF INFORMATION
+Upon request, Recipient shall return all Confidential Information within 24 hours.
+
+5. REMEDIES
+Recipient acknowledges that any breach shall cause irreparable harm and agrees to unlimited liability for any damages arising from breach.
+
+6. JURISDICTION
+This agreement shall be governed by the courts of the Cayman Islands.
