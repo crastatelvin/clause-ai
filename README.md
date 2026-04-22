@@ -550,26 +550,12 @@ GitHub Actions runs the same suite + frontend build on every push and pull reque
 
 ---
 
-## 📜 License
+## License
 
-Licensed under the **Creative Commons Attribution-NonCommercial 4.0 International** license — see [LICENSE](LICENSE) for full text.
-
-- ✅ Free to use, share, and adapt for **learning, portfolios, and non-commercial projects**
-- ✅ Must credit **Telvin Crasta** in derivatives
-- ❌ No commercial use without explicit permission
-
-Full license text: [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-
----
-
-<div align="center">
+This project is licensed under the MIT License. See [LICENSE](./LICENSE).
 
 Built with ⚖️ by **[Telvin Crasta](https://github.com/crastatelvin)** — for anyone who's ever signed something they shouldn't have.
 
 ⭐ Star this repo if CLAUSE ever saves you from a bad clause.
 
 </div>
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](./LICENSE).
