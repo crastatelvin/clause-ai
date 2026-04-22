@@ -569,3 +569,7 @@ Built with ⚖️ by **[Telvin Crasta](https://github.com/crastatelvin)** — fo
 ⭐ Star this repo if CLAUSE ever saves you from a bad clause.
 
 </div>
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](./LICENSE).
